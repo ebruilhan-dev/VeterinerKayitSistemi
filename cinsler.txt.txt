@@ -1,0 +1,54 @@
+Kedi/British Shorthair
+Kedi/Scottish Fold
+Kedi/Siyam
+Kedi/Van Kedisi
+Kedi/Ankara Kedisi
+Kedi/Maine Coon
+Kedi/Tekir (Karma Irk)
+Kedi/Bengal
+Köpek/Golden Retriever
+Köpek/Alman Çoban Köpeği
+Köpek/Labrador
+Köpek/French Bulldog
+Köpek/Sibirya Kurdu (Husky)
+Köpek/Beagle
+Köpek/Kangal
+Köpek/Cavalier King Charles
+Kuş/Muhabbet Kuşu
+Kuş/Sultan Papağanı
+Kuş/Kanarya
+Kuş/Hint Bülbülü
+Kuş/Jako (Gri Papağan)
+Kuş/Sevda Papağanı
+Kuş/Kakadu
+Balık/Japon Balığı
+Balık/Beta (Siyam Savaşçısı)
+Balık/Lepistes
+Balık/Melek Balığı
+Balık/Çöpçü Balığı
+Balık/Astronot (Oscar)
+Balık/Molly
+Tavşan/Hollanda Lop Tavşanı
+Tavşan/Aslanbaş Tavşan
+Tavşan/Ankara Tavşanı
+Tavşan/Hollanda Cüce Tavşanı
+Tavşan/Rex Tavşanı
+Hamster/Suriye Hamsterı
+Hamster/Gonzales (Cüce) Hamster
+Hamster/Roborovski Hamster
+Hamster/Çin Hamsterı
+Kaplumbağa/Kırmızı Yanaklı Su Kaplumbağası
+Kaplumbağa/Mahmuzlu Kara Kaplumbağası
+Kaplumbağa/Çizgili Kaplumbağa
+Kaplumbağa/Harita Kaplumbağası
+At/Arap Atı
+At/İngiliz Atı
+At/Haflinger
+At/Midilli (Pony)
+At/Friesian
+Diğer/Guinea Pig (Cavy)
+Diğer/İguana
+Diğer/Sakallı Ejder
+Diğer/Bukalemun
+Diğer/Ferret (Gelincik)
+Diğer/Aksolotl
